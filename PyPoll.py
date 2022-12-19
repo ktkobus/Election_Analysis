@@ -132,17 +132,15 @@ for candidate_name in candidate_votes:
 
         f"-------------------------\n")
 
+
+#    print(election_data)
+
 print(winning_candidate_summary)
 
 
     
+       
     
-    
-    
-#    print(election_data)
-
-
-
 
 
 # Using the with statement open the file as a text file.
